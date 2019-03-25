@@ -1,10 +1,10 @@
 # Garvit-k.github.io
 ## Addresses : 
+  - https://garvitkothari.in
   - https://Garvit-k.github.io
   - https://garvit.tk
   - https://garvit.ml
-  - https://remloy.tk
 ## Email ids 
-   - info@garvit.tk
-   - support@garvit.tk
-   - admin@garvit.tk
+   - garvit@garvitkothari.in
+   - info@garvitkothari.in
+   - admin@garvitkothari.in
