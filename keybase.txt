@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/garvit
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://garvitkothari.in
+  * I am garvit (https://keybase.io/garvit) on keybase.
+  * I have a public key ASANHiCY6Wngw8VbeMCUZEXRDPfHFfWZBEiD-8ZLDb9oHQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200d1e2098e969e0c3c55b78c0946445d10cf7c715f599044883fbc64b0dbf681d0a",
+      "host": "keybase.io",
+      "kid": "01200d1e2098e969e0c3c55b78c0946445d10cf7c715f599044883fbc64b0dbf681d0a",
+      "uid": "ea27b9c5ec28243ad056cab8fa88ae19",
+      "username": "garvit"
+    },
+    "merkle_root": {
+      "ctime": 1554911511,
+      "hash": "0bbb5243e14eba10d3d40c31b2ee98453f44485bac34e9df7d5e40edc0255a6e1a8ba417cc483f8cd57314d961ce45e71450621865ba428156442dd9b77777e3",
+      "hash_meta": "9d88f7b0def62d5e27d875387da21ea1dd70e1f25d1777980adcc380f51a2f8a",
+      "seqno": 5135804
+    },
+    "service": {
+      "entropy": "4a9KVwUfQz4tWmnDGdN5RvnO",
+      "hostname": "garvitkothari.in",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.1"
+  },
+  "ctime": 1554911538,
+  "expire_in": 504576000,
+  "prev": "89acb46f59be47fd229287ac3320aba797525418d7ab9f5bc63e4ae7fedf80d3",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDR4gmOlp4MPFW3jAlGRF0Qz3xxX1mQRIg/vGSw2/aB0Kp3BheWxvYWTESpcCCcQgiay0b1m+R/0ikoesMyCrp5dSVBjXq59bxj5K5/7fgNPEIJLpLoN6JKbyULPQvQr++V4gg6gvBt1gcfAwTi7+tEGRAgHCo3NpZ8RAlqwIUeiscXvdAtKUVKsCP7YLlXR9X6Rclf/SIRJdXoXM76xq1ecdQeVqqdF8v/VLXoLvGT6fgMDfY61kMz7KC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDzfr/+fzME46hkZn0dQi2FPZl2Zadd8nL9k/rMAfNyio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/garvit
+
+==================================================================
